@@ -1,0 +1,6 @@
+node_modules
+.idea
+.env
+src/api/keys.json
+deals
+/src/services/ozon.service-2.js
